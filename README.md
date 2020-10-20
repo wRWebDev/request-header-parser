@@ -13,10 +13,10 @@ Example output:
 
 ### Install
 
--`npm i` to install dependencies listed in package.json
--`npm start` to open server. 
+ - `npm i` to install dependencies listed in package.json
+ - `npm start` to open server. 
 Default port 3000, or customise with PORT=XXXX in .env in main directory
 
 ### URL
--Base URI returns simple homepage
--`/api/whoami` returns JSON
+ - Base URI returns simple homepage
+ - `/api/whoami` returns JSON
