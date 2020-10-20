@@ -12,7 +12,7 @@ Example output:
 ```
 
 ### Dependencies
- - For full list with versions, see `package.json`
+For full list with versions, see `package.json`
  - express
  - cors
  - dotenv
